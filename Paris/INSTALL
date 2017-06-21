@@ -1,0 +1,3 @@
+echo "export PYTHONPATH=$(pwd):\$PYTHONPATH" >> ${HOME}/.bashrc # Set pythonpath
+source ${HOME}/.bashrc # Reload bashrc
+
