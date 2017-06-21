@@ -21,6 +21,6 @@ cd src && make -j install && cd -
 cd Tests && make && cd -
 
 # Run production run
-cd PostProcessing && make productionr1data && cd -
+cd PostProcessing && make productionr2data && cd -
 
 
